@@ -10,7 +10,7 @@
     
     <groupId>com.lee.tools</groupId>
     <artifactId>hibernate-unproxy</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0.RELEASE</version>
     <packaging>jar</packaging>
 
     <name>Hibernate Entities Unproxy</name>
